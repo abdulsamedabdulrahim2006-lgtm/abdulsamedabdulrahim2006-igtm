@@ -20,6 +20,12 @@ I focus on **responsive design**, **clean UI**, and **modern web technologies**.
 - Git & GitHub
 - Figma (UI/UX Design)
 
+**In Progress (Learning & Expanding)**
+- 🧩 Node.js & Express (Backend)
+- ⚙️ MongoDB (Database)
+- 🤖 Python & AI/ML Fundamentals
+- 🧠 Building AI Agents for Business Automation
+- 🌐 REST APIs & Authentication (JWT)
 ---
 
 ### 🌍 Connect With Me
